@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ruuku Engine", "Ruuku Engine\Ruuku Engine.vcxproj", "{D40B3185-2BDA-43BA-9B06-8449CE7CFB60}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{EE2A8F0F-4DF9-41E0-BEB1-001DA6F72DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40B3185-2BDA-43BA-9B06-8449CE7CFB60}.Debug|x64.ActiveCfg = Debug|x64
+		{D40B3185-2BDA-43BA-9B06-8449CE7CFB60}.Debug|x64.Build.0 = Debug|x64
+		{D40B3185-2BDA-43BA-9B06-8449CE7CFB60}.Release|x64.ActiveCfg = Release|x64
+		{D40B3185-2BDA-43BA-9B06-8449CE7CFB60}.Release|x64.Build.0 = Release|x64
+		{EE2A8F0F-4DF9-41E0-BEB1-001DA6F72DEF}.Debug|x64.ActiveCfg = Debug|x64
+		{EE2A8F0F-4DF9-41E0-BEB1-001DA6F72DEF}.Debug|x64.Build.0 = Debug|x64
+		{EE2A8F0F-4DF9-41E0-BEB1-001DA6F72DEF}.Release|x64.ActiveCfg = Release|x64
+		{EE2A8F0F-4DF9-41E0-BEB1-001DA6F72DEF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14596635-D4C3-4492-A378-8D8D2935738F}
+	EndGlobalSection
+EndGlobal
